@@ -1,0 +1,11 @@
+payload:
+  - PROCESS-NAME,RocketLeague.exe
+  - PROCESS-NAME,rocketleague.exe
+  - PROCESS-NAME,EOSOverlayRenderer-Win64-Shipping.exe
+  - PROCESS-NAME,eosoverlayrenderer-win64-shipping.exe
+  - PROCESS-NAME,discord.exe
+  - PROCESS-NAME,LimbusCompany.exe
+  - PROCESS-NAME,limbuscompany.exe 
+  - DOMAIN-SUFFIX,x.com
+  - DOMAIN-SUFFIX,duckdns.org
+  - IP-CIDR,172.110.32.0/21
