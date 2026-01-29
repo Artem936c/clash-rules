@@ -7,5 +7,6 @@ payload:
   - PROCESS-NAME,LimbusCompany.exe
   - PROCESS-NAME,limbuscompany.exe 
   - DOMAIN-SUFFIX,x.com
+  - DOMAIN-SUFFIX,twitch.tv
   - DOMAIN-SUFFIX,duckdns.org
   - IP-CIDR,172.110.32.0/21
