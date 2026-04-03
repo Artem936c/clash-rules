@@ -1,6 +1,9 @@
 payload:
   - PROCESS-NAME,RocketLeague.exe
   - PROCESS-NAME,rocketleague.exe
+  - PROCESS-NAME,Le Mans Ultimate.exe
+  - PROCESS-NAME,LeMansUltimate.exe
+  - PROCESS-NAME,lemansultimate.exe
   - PROCESS-NAME,EOSOverlayRenderer-Win64-Shipping.exe
   - PROCESS-NAME,eosoverlayrenderer-win64-shipping.exe
   - PROCESS-NAME,discord.exe
